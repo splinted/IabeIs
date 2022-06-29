@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://cdn.discordapp.com/attachments/962520408609939538/991831457813233745/gun-purple.gif?size=4096">
 
 ## Stats
 
