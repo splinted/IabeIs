@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+
 ## Stats
 
 ![](https://komarev.com/ghpvc/?username=Iagging&color=blueviolet)
