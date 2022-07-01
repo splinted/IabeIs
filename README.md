@@ -4,4 +4,4 @@
 
 ![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Iagging&theme=midnight-purple&show_icons=true)
 
-please contact me via discord <796838646303948813>
+please contact me via discord <@796838646303948813>
