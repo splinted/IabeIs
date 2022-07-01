@@ -1,3 +1,10 @@
+<h1>lag</h1>
+
+- rhys
+- 16
+- student
+- united kingdom
+
 <h2 align="center">stats</h2>
 
 ![](https://komarev.com/ghpvc/?username=Iagging&color=blueviolet)
