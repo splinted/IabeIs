@@ -1,4 +1,4 @@
-## Stats
+<h2 align="center">stats</h2>
 
 ![](https://komarev.com/ghpvc/?username=Iagging&color=blueviolet)
 
@@ -6,4 +6,4 @@
 
 <h2 align="center">contact</h2>
 
-- please contact me via discord *<796838646303948813>*
+- please contact me via discord *lag#9999*
