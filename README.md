@@ -1,4 +1,4 @@
-<h1>lag</h1>
+<h2 align="center">lag</h2>
 
 - rhys
 - 16
