@@ -18,4 +18,4 @@ N/A
 
 <h2 align="center">contact</h2>
 
-- please contact me via discord *lag#9999*
+[![Discord Presence](https://lanyard.cnrad.dev/api/796838646303948813)](https://discord.com/users/796838646303948813)
