@@ -14,7 +14,7 @@
 
 <h2 align="center">current projects</h2>
 
-N/A
+- [ARMA RP](https://discord.gg/armarp) *(FiveM UK Based Roleplay / Fragging Server - Founder/Developer)*
 
 <h2 align="center">contact</h2>
 
