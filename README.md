@@ -1,7 +1,6 @@
 <h2 align="center">lag</h2>
 
 - rhys
-- 16
 - student
 - united kingdom
 - fivem developer
