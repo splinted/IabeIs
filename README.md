@@ -6,9 +6,9 @@
 
 <h2 align="center">stats</h2>
 
-![](https://komarev.com/ghpvc/?username=IabeIs&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=splinted&color=blueviolet)
 
-![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=IabeIs&theme=midnight-purple&show_icons=true)
+![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=splinted&theme=midnight-purple&show_icons=true)
 
 <h2 align="center">current projects</h2>
 
