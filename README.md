@@ -1,8 +1,17 @@
 <h2 align="center">rhys</h2>
+<p align="center">
+<a href="https://twitter.com/6rhys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
+  <a href="https://twitch.tv/Rlhys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://youtube.com/rhys6666/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+</p>
 
 - rhys
 - student
 - united kingdom
+
+<h2 align="center">current projects</h2>
+
+- [Vesper RP](https://discord.gg/vesper) (FiveM Semi-RP/Fragging server)
 
 <h2 align="center">stats</h2>
 
