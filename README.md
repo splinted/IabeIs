@@ -1,4 +1,5 @@
 <h2 align="center">rhys</h2>
+<h2 align="center">https://discord.gg/cov</h2>
 <p align="center">  
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
@@ -15,7 +16,7 @@
 
 <h2 align="center">current projects</h2>
 
-- [Vesper RP](https://discord.gg/vesper) (FiveM Semi-RP/Fragging server)
+- [N/A](https://discord.gg/) (N/A)
 
 <h2 align="center">stats</h2>
 
@@ -25,4 +26,4 @@
 
 <h2 align="center">contact</h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796838646303948813?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/796838646303948813)
+[![Discord Presence](https://lanyard.cnrad.dev/api/183800989881597953)](https://discord.com/users/183800989881597953)
