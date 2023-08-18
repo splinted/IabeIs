@@ -1,5 +1,5 @@
 <h2 align="center">rhys</h2>
-<h2 align="center">https://discord.gg/cov</h2>
+<h2 align="center">https://discord.gg/rhys</h2>
 <p align="center">  
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
