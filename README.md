@@ -1,5 +1,4 @@
 <h2 align="center">rhys</h2>
-<h2 align="center">https://discord.gg/rhys</h2>
 <p align="center">  
 </p>
 <p align="center">
