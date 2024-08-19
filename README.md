@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rlhys&color=blueviolet)
 
-![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhys&theme=midnight-purple&show_icons=true)
+![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhys&theme=graywhite&show_icons=true)
 
 <h2 align="center">contact</h2>
 
