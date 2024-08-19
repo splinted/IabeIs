@@ -18,7 +18,7 @@
 
 <h2 align="center">stats</h2>
 
-[![](https://komarev.com/ghpvc/?username=rlhys&color=dark)]
+[![](https://komarev.com/ghpvc/?username=rlhys&color=yellow)]
 
 ![rlhys's Stats](https://github-readme-stats.vercel.app/api?username=rlhys&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![rlhys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlhys&theme=dark&hide_border=true)
