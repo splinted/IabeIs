@@ -1,29 +1,30 @@
-<h2 align="center">rhys</h2>
-<p align="center">  
-</p>
-<p align="center">
-<a href="https://twitter.com/6rhys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
-  <a href="https://twitch.tv/6hys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://youtube.com/@6hys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
- <h2 align="center"></h2>
-</p>
+<h1>rhys</h1>
 
+<div align="center"><img width="200" src="https://i.pinimg.com/originals/6e/67/b2/6e67b2384289b1fad3a034ebe0152904.gif"/></div>
+
+## about
 - rhys
-- student
+- 18
 - united kingdom
+- graphics designer & cyber security student
+ 
+## skills
+<div align="center">
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" />
+  <img width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> 
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/FiveM_Logo.png" /> 
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+  <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" /> 
+  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> 
+</div>
 
-<h2 align="center">current projects</h2>
 
-- [N/A](https://discord.gg/) (N/A)
+## contact
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/183800989881597953?theme=transparent&bg=0d1117&animated=true&idleMessage=Work%20Smart%20Not%20Hard&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/183800989881597953)
 
-<h2 align="center">stats</h2>
+## stats
 
-[![](https://komarev.com/ghpvc/?username=rlhys&color=yellow)]
+![Rhys' GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=rlhys&theme=shadow-purple&hide_border=true)
 
-![rlhys's Stats](https://github-readme-stats.vercel.app/api?username=rlhys&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![rlhys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlhys&theme=dark&hide_border=true)
-![rlhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhys&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-<h2 align="center">contact</h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/183800989881597953)](https://discord.com/users/183800989881597953)
+![](https://komarev.com/ghpvc/?username=rlhys&color=blueviolet)
