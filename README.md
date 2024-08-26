@@ -5,7 +5,7 @@
 - rhys
 - 18
 - united kingdom
-- graphics designer & computing student
+- computing student & gaphics designer
  
 <div align="center"><h1>skills</h1></div>
 <div align="left">
